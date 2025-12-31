@@ -9,8 +9,9 @@ ele pega a URL que o usuário forneceu após isso ele faz uma requisição HTTP 
 no térmux ou terminal
 ```pip install requests beautifulsoup4 lxml```
 se estiver jogando térmux e dé erro com o lxml rode:
-```pkg install libxml2 libxslt
-   pkg install clang python-dev
+```
+pkg install libxml2 libxslt
+pkg install clang python-dev
 ```
 2: ** execute o script**
 ```python copia_site.py
