@@ -13,8 +13,9 @@ se estiver Usando térmux e dé erro com o lxml rode:
 pkg install libxml2 libxslt
 pkg install clang python-dev
 ```
-2: ** execute o script**
-```python copia_site.py
+2: **execute o script**
+```
+python copia_site.py
 ```
 digite e URL do site quando solicitado:
 ```
