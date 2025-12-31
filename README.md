@@ -8,7 +8,7 @@ ele pega a URL que o usuário forneceu após isso ele faz uma requisição HTTP 
 1: **Instale as Bibliotecas Necessárias**
 no térmux ou terminal
 ```pip install requests beautifulsoup4 lxml```
-se estiver jogando térmux e dé erro com o lxml rode:
+se estiver Usando térmux e dé erro com o lxml rode:
 ```
 pkg install libxml2 libxslt
 pkg install clang python-dev
