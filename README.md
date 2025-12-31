@@ -11,8 +11,6 @@ no térmux ou terminal
 se estiver jogando térmux e dé erro com o lxml rode:
 ```pkg install libxml2 libxslt
    pkg install clang python-dev
-depois:
-```pip install lxml
 ```
 2: ** execute o script**
 ```python copia_site.py
